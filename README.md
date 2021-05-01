@@ -1,1 +1,1 @@
-Auth : admin@admin.com | admin
+Auth : admin@gmail.com | admin
